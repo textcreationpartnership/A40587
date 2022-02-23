@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Full and true relation of all the proceedings at the assizes holden at Chelmsford for the countie of Essex which began on Monday the 29th of this instant March, and ended on Thursday the 1st of April, with an exact account of the most remarkable trials of several notorious offendors, both for murders and robberies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40587</idno>
+            <idno type="STC">Wing F2316</idno>
+            <idno type="STC">ESTC R30392</idno>
+            <idno type="EEBO-CITATION">11305777</idno>
+            <idno type="OCLC">ocm 11305777</idno>
+            <idno type="VID">47394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Full and true relation of all the proceedings at the assizes holden at Chelmsford for the countie of Essex which began on Monday the 29th of this instant March, and ended on Thursday the 1st of April, with an exact account of the most remarkable trials of several notorious offendors, both for murders and robberies.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Chelmsford? :</pubPlace>
+                  <date>1686?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47394:1"/>
+            <pb n="1" facs="tcp:47394:1" rendition="simple:additions"/>
+            <head>The full and True RELATION OF ALL THE PROCEEDINGS AT THE ASSIZES Holden at CHELMSFORD, FOR THE Countie of Eſſex.</head>
+            <head type="sub">Which began on <hi>Monday</hi> the 29th of this inſtant <hi>March<g ref="char:punc">▪</g>
+               </hi> and en<g ref="char:EOLhyphen"/>ded on <hi>Thurſday</hi> the 1ſt. of <hi>April.</hi> With an exact Account of the moſt remarkable Trials of ſeveral notorious Offen<g ref="char:EOLhyphen"/>dors, both for Murders and Robberies.</head>
+            <head type="sub">And more eſpecially of one <hi>John Manchetman</hi> a Chirurgion, for murthering his Wife, and two notorious Highway-men, <hi>viz. Richard Downs</hi> and <hi>Tho. King,</hi> and ſeveral other conſidera<g ref="char:EOLhyphen"/>ble Trials-With the number of thoſe Condemned to dye, burn'd in the hand and to be whipt.</head>
+            <head type="sub">
+               <add>Printed. 3 Aprill 1680.</add>
+            </head>
+            <p>THe firſt that received their Tryals were two notorious Highway-men, <hi>Richard Downs</hi> and <hi>Tho. King</hi> who were Indicted and Arraigned, for that they on the 13th of <hi>January</hi> 1679 In the Company of <hi>Richard Hodgkinſon,</hi> Execu<g ref="char:EOLhyphen"/>ted at <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burn</hi> the laſt Seſſions, and one <hi>Edwards,</hi> not yet taken, Robbed <hi>Ipſwitch-Coach</hi> of monies to the vallue of 400 pounds, the manner thus, the ſad Goach being about five miles off from <hi>Ipſwitch,</hi> the four parties abovementioned, about nine of the
+<pb n="2" facs="tcp:47394:2"/> Clock in the Evening came Riding up to the Coach, which was full of Paſſengers but moſt Women, and no ſooner one of them asking what it was a Clock, which was the Word agreed amongſt them for the onſet, but they fired into the Coach with their Pi<g ref="char:EOLhyphen"/>ſtols and expreſſing ſeveral Oaths, Commanded them on pain of of Death for to Deliver, which put them into ſuch fright as freely ſurrendered up what Coin they had which not ſuffiſing their covetous deſires, they ranſeck farther, and when they had taken all that they could find, departed; but Hue and Cry be<g ref="char:EOLhyphen"/>ing ſent after them they were purſued and taken e're they could reach the City of <hi>London,</hi> only <hi>Edwards</hi> eſcaping, by leaving his Horſe<g ref="char:punc">▪</g> and running down <hi>Hoſier Lane</hi> in <hi>Weſtſmithfield;</hi> they had likewiſe robbed another Gentleman of one hundred pounds more, that alſo appeared againſt them; the Evidence was plain and poſitive, ſo that it could not be denied, whereupon the Ju<g ref="char:EOLhyphen"/>ry brought them in Cuilty of the Fellonies and Robbery, and they accordingly received Sentence of Death.</p>
+            <p>The next was <hi>John Manchetman,</hi> a Chiru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion, who was tried for that notorious Crime of Murthering his Wife, the circum<g ref="char:EOLhyphen"/>ſtances of the bloody Deed was ſworn to as followeth, the Pri<g ref="char:EOLhyphen"/>ſoner being newly come on Shore, having been at Sea for a con<g ref="char:EOLhyphen"/>ſiderable time, was informed that ſhe had been over laviſh of of her Favours to a Neighbour of hers, being by profeſſion a Shoomaker; he being newly come from Seas and coming home as it is ſaid ſurprized her too familiar with the ſaid Shoomaker, whereupon he in a Rage threatned her, yet notwithſtanding the Rage of Jealoſie, he ſeemed reconciled, but to the contrary retaining an inward hatred, which ſhe perceiving, fled to a neigh<g ref="char:EOLhyphen"/>bours houſe, thinking to ſtay whilſt his Anger was overpaſt, yet he with a ſeemed Reconciliation, came to invite her home, and came up to her as if he would imbrace her, but with his bloody hands he ſtab'd her with a Knife under her Right Breaſt, about four inche deep, of which Wound ſhe in a little time died, on<g ref="char:EOLhyphen"/>ly confeſſing her innocence, at his Trial he did not deny the Fact, and after his being conv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted did confeſs his Raſhneſs in proceeding on ſuch Cruelty, without the leaſt remorſe, after he was found Guilty of wilful Murder and received Sentance of Death, he ſeemed exceeding Penitent, and did bewail his cruel Crime, ſhedding many Tears, that he had given himſelf over to the ſuggeſtions of the Prince of darkneſs, and ſo continued to the unmoſt.</p>
+            <p>The next was one <hi>Lawrence White</hi> alias Peck, a notorious High<g ref="char:EOLhyphen"/>way
+<pb n="3" facs="tcp:47394:2"/> man, being impeached by <hi>Downs</hi> aforementioned, was tried f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſeveral Roberies in the County of <hi>Eſſex,</hi> the firſt was, thar he ne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Braintre,</hi> in the Company of ſome others, did ſet upon one Mr. <hi>Marle</hi> a Graſier on the Kings High-way, who defended himſelf for ſome time, againſt them, whereupon the Priſoner fired his Piſtol at him, but miſſing him, ſhot his Mare through the noſe but at laſt the aforeſaid <hi>Marle</hi> getting the Start of them, and by the goodneſs of his Mare, made his eſcape by ſwift Riding, they following him till he came within half a mile of the Town.</p>
+            <p>The next Robbery that was proved againſt him, was for taking away twenty pounds, from one Mr <hi>Jenkins</hi> upon <hi>Newmarket Heath,</hi> on the 17th of <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cember</hi> laſt the witneſſes ſwore point blanck againſt him, and he being fa<g ref="char:EOLhyphen"/>mous for his notorious Villames, the jury found him Guilty of the ſeveral Fel<g ref="char:EOLhyphen"/>lonies and Robberies, ſo that being convicted, he received Sentance of Death, he had forme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly followed the occupation of cutting Cattel, and lived in good repute<g ref="char:punc">▪</g> but as he pleaded in Court, he had been inticed and drawn away by keeping Company with ſeveral notorious Offendors ſome of which have been already Evecuted.</p>
+            <p>
+               <hi>Thomas Chambers</hi> a notorious Criminal was tried for Fellony, the manner of which being thus, he coming into the Shop of one <hi>Mary Hunt,</hi> telling her he expected a Gentlem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to come to him, that lived a little diſtance thence, and deſired her that ſeeing he did not come, ſhe would go call him, which ſhe un<g ref="char:EOLhyphen"/>dertook leaving only a little <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hild in her ſhop, but e're ſhe returned her Cu<g ref="char:EOLhyphen"/>ſtomer was ſheard off with a ſix Gallon Runlet full of Brandy, this being about eight of the Clock in the evening, ſo that though he was immediately purſued yet he could not be then taken, but was the next day as he was ſelling his Mer<g ref="char:EOLhyphen"/>chandice, to this Indictment he pleaded not Guilty, but the proof being plain, he was brought in Guilty and was burn'd in the hand<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <hi>Sarah Bell,</hi> was Arraigned and tried for Murthering a little Girl her Appren<g ref="char:EOLhyphen"/>tice, about twelve years of Age, the circumſtances of the Murther as followeth, the ſaid Girl having croſſed her, in not performing a meſſage ſhe had ſent her of, ſhe took up a Knife which lay upon the dreſſer, and threw it at her, with ſuch an unlucky hand as the force cauſed it to enter her Breſt, three inches deep, of which wound ſhe died, ſo that although the Priſoner pleaded innocence, and that ſhe intended no ſuch Cruelty, yet ſhe having often threatned her before, ſhe was brought in Guilty of Manſlaughter, and ſhe was burn'd<g ref="char:punc">▪</g> in the hand accordingly.</p>
+            <p>
+               <hi>Henry <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofts</hi> was Indicted and took his Trial, for that he in the company of two more, not yet taken, broke open the houſe of one <hi>William Evans,</hi> near <hi>Burnt wood,</hi> and thence did felloniouſly take and bear away goods, as Pewter, Braſs and Linnen, to the vallue of five pounds, but the Burglary being commit<g ref="char:EOLhyphen"/>ted in the day time, he received the ben<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fit of his Clargy, and was burnt in the hand.</p>
+            <p>
+               <hi>James Matthews</hi> for ſtealing of Sheep to a conſiderable number, from one <hi>William <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>monds.,</hi> was likewiſe tried, and pleaded not Guilty to his Indict<g ref="char:EOLhyphen"/>ment, whereupon evidence were produced that he had ſold the ſame at <hi>Rump<g ref="char:EOLhyphen"/>ford,</hi> and that he had been an ill liver, ſo thatnot being able to bring teſti<g ref="char:EOLhyphen"/>mony how he came by thoſe he ſold, he was found Guilty and was burnt in the hand.</p>
+            <pb n="4" facs="tcp:47394:3"/>
+            <p>
+               <hi>George De<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmer.</hi> formerly a Horſecourſer, was Arraigned, and tried, for ſtealing a Guelding from one Mr. <hi>Wilſon</hi> near <hi>Ipſw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch,</hi> vallued at five pounds, and as he was offering the ſame to ſale, was apprehended, his plea was that he bought him, and gave a legal price for him according to his true vallue, and pretended that he could prove the ſame, but his Witneſs not being to be found he was found Guilty, and among the reſt was burn'd in the hand, it being ſup<g ref="char:EOLhyphen"/>poſed the firſt Fact that ever he committed.</p>
+            <p>
+               <hi>James Dixon,</hi> was Arraigned for Fellony, and having been a notorious Of<g ref="char:EOLhyphen"/>fendor, though the evidence was not ſo poſitive, yet by many credible circum<g ref="char:EOLhyphen"/>ſtances he was thought Guilty, as not being able to give an account where he was during the time of the Robberies, ſo that he was upon weighing each particular brought in Guilty and afterwards burnt in the hand.</p>
+            <p>
+               <hi>Arthor Paſcal, Edward Johnſon, Daniel Toppan,</hi> and <hi>Jeremiah Perminter</hi> be<g ref="char:EOLhyphen"/>ing all inconſiderable Offendors, for petry Fellonies, under the vallue of twelve pence, were ordered to be whipt.</p>
+            <p>There were in all four Condemned to die, <hi>viz. John Manchetman</hi> for Mur<g ref="char:EOLhyphen"/>thering his Wife, <hi>Richard Downs, Thomas King, Lawrence White,</hi> alias <hi>Peck,</hi> three notorious Highwaymen, there were ſix burn'd in the hand and four to be whipt, and ſo the Aſſizes ended.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47394:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
